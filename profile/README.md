@@ -13,7 +13,7 @@ Based on Nghiem Xuan Hao's skills and experience, here are some coding challenge
    - **Task**: Create a CI/CD pipeline to automatically provision infrastructure and deploy services using **Terraform** and **Kubernetes** on AWS. Include stages like Build, Test, Deploy, and infrastructure validation (Validate, Plan, Apply).
    - **Key Skills**: Kubernetes, Terraform, AWS (EC2, S3, RDS), CI/CD Pipelines.
 
-### 4. **Full-Stack Web Application**
+### 4. **[Full-Stack Web Application](https://github.com/To-demonstrate-my-expertise/FullStack-Web-Application)**
    - **Task**: Develop a responsive web application from a **Figma** design, implementing API interactions, and ensuring pixel-perfect design. Create automated tests including End-to-End and Component Testing.
    - **Key Skills**: Vue.js, Cypress, API Integration, CSS, HTML.
 
